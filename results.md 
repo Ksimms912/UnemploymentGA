@@ -1,0 +1,17 @@
+##Results
+
+After creating the heat map gif of the unemployment
+rate by county in Georgia, it was apparent that
+there was a huge spike in unemployment rates
+from 2008-2010. This lines up with the recession.
+
+After looking at the emissions data from the
+state of Georgia, it appears that a decrease in
+emissions seems to line up with the Unemployment
+spike from 2008-2010.
+
+Going further, I would like to make my own dataset
+that compares the emissions by county and the
+unemployment by county. I unfortunately ran into
+trouble with formatting the emissions by county data
+so I had to use emissions for the state overall. 
