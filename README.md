@@ -20,6 +20,8 @@ They should be run in the order that they are given in the walkthrough. The emis
 sets up the data for it to be used in GIS. I use GIS to make heat maps of the unemployment rates for each map.  
 The heatgif.py script makes the heat map gif from the png files made in GIS. The emissions_analyze.py cleans up the emissions data and prints out the total emissions by year.  
 
+I added the .gif file to the repository so that there's an example to follow.
+
 #### Python Instructions- emissionsbyga.py
 
 1.) Import pandas as pd
